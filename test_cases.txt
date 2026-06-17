@@ -1,0 +1,65 @@
+Test Case 1
+Input:
+Name = Priya
+Marks = 95
+
+Output:
+Grade = A
+
+--------------------------------
+
+Test Case 2
+Input:
+Name = Rahul
+Marks = 84
+
+Output:
+Grade = B
+
+--------------------------------
+
+Test Case 3
+Input:
+Name = Arun
+Marks = 73
+
+Output:
+Grade = C
+
+--------------------------------
+
+Test Case 4
+Input:
+Name = Meena
+Marks = 66
+
+Output:
+Grade = D
+
+--------------------------------
+
+Test Case 5
+Input:
+Name = John
+Marks = 45
+
+Output:
+Grade = F
+
+--------------------------------
+
+Test Case 6
+Input:
+Marks = 120
+
+Output:
+Invalid input! Marks should be between 0 and 100.
+
+--------------------------------
+
+Test Case 7
+Input:
+Marks = abc
+
+Output:
+Please enter numbers only.
